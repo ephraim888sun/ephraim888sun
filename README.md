@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/ephraim-sun/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="devpost.com/ephraim888sun/" target="_blank" rel="noopener">
+  <a href="https://devpost.com/ephraim888sun?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost Badge"/>
   </a>
 </div>
@@ -54,11 +54,11 @@ Here are some ideas to get you started:
 
 ---
 
-### In the past, I've
+### In the past,
 
 <img alt="Amazon" height="30px" src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=amazon&logoColor=white" />
 
-- worked with as a Amazon as a 🧑‍💻 Software Engineer at Amazon Prime, developing a full-stack feature for 100k+ Customer Service Agents across 32+ countries
+- worked with Amazon as a 🧑‍💻 Software Engineer at Amazon Prime, developing a full-stack feature for 100k+ Customer Service Agents across 32+ countries
 - worked at 🛢️ Scout Energy Partners to automate oil & gas scripts with Python and built a full-stack web application
 
 
