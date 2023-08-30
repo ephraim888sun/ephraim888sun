@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 **`Engineer`**
 **`Developer`**
 
-#### I'm a 🤠 sophomore at 🏫 Southern Methodist University studying 💻 Computer Science and 💼 Business Analytics
+#### I'm a 🤠 sophomore (senior by credit) at 🏫 Southern Methodist University studying 💻 Computer Science and 💼 Business Analytics
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ephraim-sun/" target="_blank" rel="noopener">
