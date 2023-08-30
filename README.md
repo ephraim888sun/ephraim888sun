@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 #### I'm a 🤠 sophomore at 🏫 Southern Methodist University studying 💻 Computer Science and 💼 Business Analytics
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ephraim-sun/" target="_blank">
+  <a href="https://www.linkedin.com/in/ephraim-sun/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="devpost.com/ephraim888sun" target="_blank">
+  <a href="devpost.com/ephraim888sun/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost Badge"/>
   </a>
 </div>
