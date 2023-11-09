@@ -63,7 +63,20 @@ Here are some ideas to get you started:
 - worked with Amazon as a 🧑‍💻 Software Engineer at Amazon Prime, developing a full-stack feature for 100k+ Customer Service Agents across 32+ countries
 - worked at 🛢️ Scout Energy Partners to automate oil & gas scripts with Python and built a full-stack web application
 
+### Hackathons
+My Recent Hackathon projects include:
 
+<div>MultiMed Vision+ - 1st Place Intersystems Integrated ML challenge at CalHacks 10.0</div>
+
+<div>StoryStocks - 2nd Place Goldman Sachs Challenge at HackUTD X</div>
+
+<div>Carbon - top 5 and productivity track winner at HackRice 13</div>
+
+<div>Chain Persona - 3rd place winner of Cartesi at HackSMU V</div>
+
+<div>ScholarSource - top 20 winner and Wolfram Award winner at PennApps</div>
+
+<div>ChronoSnap - 1st place winner with Cartesi using blockchain technology</div>
 
 
 <p align="center" />
