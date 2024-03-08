@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 # 🕺🏻 Ephraim Sun
 
 **`Entrepreneur`**
+**`Builder`**
 **`Engineer`**
 **`Developer`**
 
-#### I'm a 🐴 Mustang Scholar at 🏫 Southern Methodist University studying 💻 Computer Science and 💼 Business Analytics.
+#### Director of Technology at SMU Blockchain, Mustang Scholar, Engaged Learning Fellowship, Grand Challenge Scholars Program
+#### 🏫 Southern Methodist University studying  
+#### 💻 Computer Science and 💼 Business Analytics Supply Chain Management
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ephraim-sun/" target="_blank" rel="noopener">
