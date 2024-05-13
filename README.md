@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=header"/>
+
 ### Hi there 👋
 
 <!--
@@ -90,3 +92,5 @@ My Recent Hackathon projects include:
 </p>
 
 ### <p align="center"> :point_down: Check out my favorite projects below :point_down: </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=footer"/>
