@@ -97,8 +97,8 @@ My Recent Hackathon projects include:
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ephraim888sun/langs)]()
 
-[![GitHub Trends SVG]([https://api.githubtrends.io/user/svg/ephraim888sun/langs](
-)
+[![https://api.githubtrends.io/user/svg/ephraim888sun/langs](https://api.githubtrends.io/user/svg/ephraim888sun/repos?time_range=one_year&theme=classic)]()
+
 
 
 
