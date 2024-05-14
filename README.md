@@ -91,11 +91,14 @@ My Recent Hackathon projects include:
   <img src="https://github-readme-stats.vercel.app/api?username=ephraim888sun&include_all_commits=true&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffff00&border_radius=20&hide_border=true" alt="Ephraim Sun's GitHub Stats"/>
 </p>
 
-// <p align="center"> :point_down: Check out my favorite projects below :point_down: </p>
+<!--
+ <p align="center"> :point_down: Check out my favorite projects below :point_down: </p>
+-->
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ephraim888sun/langs)]()
-[![GitHub Trends SVG]([https://api.githubtrends.io/user/svg/ephraim888sun/langs](https://api.githubtrends.io/user/svg/ephraim888sun/repos?time_range=one_year&theme=classic
-))]()
+
+[![GitHub Trends SVG]([https://api.githubtrends.io/user/svg/ephraim888sun/langs](
+)
 
 
 
