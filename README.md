@@ -95,10 +95,11 @@ My Recent Hackathon projects include:
  <p align="center"> :point_down: Check out my favorite projects below :point_down: </p>
 -->
 
-<div align="center" style="display: flex; gap: 20px;" />
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ephraim888sun/langs)]()
-[![https://api.githubtrends.io/user/svg/ephraim888sun/langs](https://api.githubtrends.io/user/svg/ephraim888sun/repos?time_range=one_year&theme=classic)]()
+<div align="center" style="display: flex; gap: 20px;">
+    <img src="https://api.githubtrends.io/user/svg/ephraim888sun/langs" alt="GitHub Trends">
+    <img src="https://api.githubtrends.io/user/svg/ephraim888sun/repos?time_range=one_year&theme=classic" alt="GitHub Trends Repositories">
 </div>
+
 
 
 
