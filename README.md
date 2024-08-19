@@ -59,15 +59,6 @@ Here are some ideas to get you started:
 
 ---
 
-### In the past,
-
-<a href="https://www.amazon.com/amazonprime" target="_blank" rel="noopener">
-  <img alt="Amazon" height="30px" src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=amazon&logoColor=white" />
-</a>
-
-- worked with Amazon as a 🧑‍💻 Software Engineer at Amazon Prime, developing a full-stack feature for 100k+ Customer Service Agents across 32+ countries
-- worked at 🛢️ Scout Energy Partners to automate oil & gas scripts with Python and built a full-stack web application
-
 ### Hackathons
 My Recent Hackathon projects include:
 
