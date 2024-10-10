@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 **`Engineer`**
 **`Developer`**
 
-#### Director of Technology at SMU Blockchain, Mustang Scholar, Engaged Learning Fellowship, Grand Challenge Scholars Program
-#### 🏫 Southern Methodist University studying  
+#### 🏫 Southern Methodist University  
 #### 💻 Computer Science and 💼 Business Analytics Supply Chain Management
 
 <div id="badges">
